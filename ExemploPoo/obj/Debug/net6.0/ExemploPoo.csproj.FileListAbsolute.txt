@@ -1,0 +1,15 @@
+D:\Pedro\Cursos\DIO\mrv\poo\ExemploPoo\bin\Debug\net6.0\ExemploPoo.exe
+D:\Pedro\Cursos\DIO\mrv\poo\ExemploPoo\bin\Debug\net6.0\ExemploPoo.deps.json
+D:\Pedro\Cursos\DIO\mrv\poo\ExemploPoo\bin\Debug\net6.0\ExemploPoo.runtimeconfig.json
+D:\Pedro\Cursos\DIO\mrv\poo\ExemploPoo\bin\Debug\net6.0\ExemploPoo.dll
+D:\Pedro\Cursos\DIO\mrv\poo\ExemploPoo\bin\Debug\net6.0\ExemploPoo.pdb
+D:\Pedro\Cursos\DIO\mrv\poo\ExemploPoo\obj\Debug\net6.0\ExemploPoo.csproj.AssemblyReference.cache
+D:\Pedro\Cursos\DIO\mrv\poo\ExemploPoo\obj\Debug\net6.0\ExemploPoo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pedro\Cursos\DIO\mrv\poo\ExemploPoo\obj\Debug\net6.0\ExemploPoo.AssemblyInfoInputs.cache
+D:\Pedro\Cursos\DIO\mrv\poo\ExemploPoo\obj\Debug\net6.0\ExemploPoo.AssemblyInfo.cs
+D:\Pedro\Cursos\DIO\mrv\poo\ExemploPoo\obj\Debug\net6.0\ExemploPoo.csproj.CoreCompileInputs.cache
+D:\Pedro\Cursos\DIO\mrv\poo\ExemploPoo\obj\Debug\net6.0\ExemploPoo.dll
+D:\Pedro\Cursos\DIO\mrv\poo\ExemploPoo\obj\Debug\net6.0\refint\ExemploPoo.dll
+D:\Pedro\Cursos\DIO\mrv\poo\ExemploPoo\obj\Debug\net6.0\ExemploPoo.pdb
+D:\Pedro\Cursos\DIO\mrv\poo\ExemploPoo\obj\Debug\net6.0\ExemploPoo.genruntimeconfig.cache
+D:\Pedro\Cursos\DIO\mrv\poo\ExemploPoo\obj\Debug\net6.0\ref\ExemploPoo.dll
